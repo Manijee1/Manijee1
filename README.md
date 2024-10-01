@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manijee
+- 👋 Hi, I’m @Mani
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning devops
 - 📫  reach me - manikantanaik.t@gmail.com
